@@ -12,7 +12,7 @@ function Contact() {
             console.log(isValid);
             
             if (!isValid) {
-                setErrorMessage('Your email is invalid.');
+                setErrorMessage('Email is invalid.');
             } else {
                 setErrorMessage('');
             }
