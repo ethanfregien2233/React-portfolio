@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.dfd7d048.css",
+    "main.js": "/react-portfolio/static/js/main.96bcdfd3.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.0461d530ba58d63efb1b.jpg",
+    "static/media/reelroulette.jpg": "/react-portfolio/static/media/reelroulette.772f0aabe23c4ff31319.jpg",
+    "static/media/gamespotblog.jpg": "/react-portfolio/static/media/gamespotblog.0ea06ddb75fcf1e46858.jpg",
+    "static/media/weatherdashboard.jpg": "/react-portfolio/static/media/weatherdashboard.b03cdb8dde500800151d.jpg",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.d3bc590ae50eb5bba991.pdf",
+    "static/media/budgettracker.jpg": "/react-portfolio/static/media/budgettracker.9c67c3f41bc33b2ee845.jpg",
+    "static/media/codingquiz.jpg": "/react-portfolio/static/media/codingquiz.d1050a6fbe2fb6869816.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.dfd7d048.css.map": "/react-portfolio/static/css/main.dfd7d048.css.map",
+    "main.96bcdfd3.js.map": "/react-portfolio/static/js/main.96bcdfd3.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd7d048.css",
+    "static/js/main.96bcdfd3.js"
+  ]
+}
