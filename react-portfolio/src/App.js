@@ -1,12 +1,12 @@
 import React from 'react';
-import About from './components/About';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import Resume from './components/Resume';
+import About from './components/about';
+import Header from './components/header';
+import Footer from './components/footer';
+import Projects from './components/projects';
+import Contact from './components/contact';
+import Resume from './components/resume';
 import './App.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 
 function App() {
@@ -14,23 +14,23 @@ function App() {
     <div className="App">
       <Router>
         <Header />
-        <Switch>
+        <Routes>
           <Route 
-            exact path="/projects" component={Projects} 
+            path="/projects" component={Projects} 
           />
           <Route 
-            exact path="/about" component={About}
+            path="/about" component={About}
           />
           <Route 
-            exact path="/contact" component={Contact}
+            path="/contact" component={Contact}
           />
           <Route 
-            exact path="/resume" component={Resume}
+            path="/resume" component={Resume}
           />
           <Route
             component={About}
           />
-        </Switch>
+        </Routes>
         <Footer />
       </Router>
     </div>

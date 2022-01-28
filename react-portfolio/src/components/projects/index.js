@@ -1,4 +1,5 @@
 import React from 'react';
+import Card from '../Card';
 import image1 from '../../assets/images/weatherdashboard.jpg';
 import image2 from '../../assets/images/gamespotblog.jpg';
 import image3 from '../../assets/images/reelroulette.jpg';
