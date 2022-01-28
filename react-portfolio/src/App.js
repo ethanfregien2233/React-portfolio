@@ -16,19 +16,16 @@ function App() {
         <Header />
         <Routes>
           <Route 
-            path="/projects" component={Projects} 
+            path="/projects" element={<Projects />} 
           />
           <Route 
-            path="/about" component={About}
+            path="/about" element={<About />}
           />
           <Route 
-            path="/contact" component={Contact}
+            path="/contact" element={<Contact />}
           />
           <Route 
-            path="/resume" component={Resume}
-          />
-          <Route
-            component={About}
+            path="/resume" element={<Resume />}
           />
         </Routes>
         <Footer />
