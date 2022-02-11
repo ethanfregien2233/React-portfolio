@@ -5,7 +5,7 @@ import image2 from '../../assets/images/gamespotblog.jpg';
 import image3 from '../../assets/images/reelroulette.jpg';
 import image4 from '../../assets/images/codingquiz.jpg';
 import image5 from '../../assets/images/budgettracker.jpg';
-
+import image6 from '../../assets/images/img6.jpg';
 
 
 const portfolio = [
@@ -45,6 +45,13 @@ const portfolio = [
         url: "https://stark-everglades-55642.herokuapp.com/",
         github: "hhttps://github.com/ethanfregien2233/Budget-tracker"
     },    
+    {
+        name: "The Raffler",
+        description: "A MERN app for creating and participating in raffle giveaways.",
+        image: image6,
+        url: "https://guarded-brushlands-70829.herokuapp.com/",
+        github: "https://github.com/ethanfregien2233/the-raffler"
+    }
     
 ]
 
