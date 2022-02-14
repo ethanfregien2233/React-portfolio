@@ -28,7 +28,7 @@ const portfolio = [
         name: "Reel Roulette",
         description: "Random movie and trailer generator using The Movie Database api and Youtube api.",
         image: image3,
-        url: "https://ethanfregien2233.github.io/project-1/",
+        url: "https://ethanfregien2233.github.io/reel-roulette/",
         github: "https://github.com/ethanfregien2233/project-1"
     },     
     {
