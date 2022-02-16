@@ -27,6 +27,9 @@ function App() {
           <Route 
             path="/resume" element={<Resume />}
           />
+          <Route
+          component={About}
+          />
         </Routes>
         <Footer />
       </Router>

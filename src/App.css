@@ -59,7 +59,7 @@ a {
 .active {
   color: rgb(127, 113, 133);
   font-weight: bold;
-  text-shadow: 2px 2px 8px rgb(78, 175, 231);
+  text-shadow: 2px 2px 8px hotpink;
 }
 
 .card-link {
@@ -83,7 +83,7 @@ img {
 
 footer {
   background-color: rgb(165, 46, 118) ;
-  border-top: 2px rgb(41, 31, 100);
+  border-top: 2px rgb(55, 9, 73);
 }
 
 section p {
