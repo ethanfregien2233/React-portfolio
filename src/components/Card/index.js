@@ -8,14 +8,15 @@ function Card(props) {
         </div>
         <div className="card-body">
         
-            <h5 className='card-title'>
-                {props.name}
-            </h5>
-            <h6 className='card-text'>
+            <h4 className='card-title'>
+                <strong>{props.name}</strong>
+            </h4>
+            <h5 className='card-text'>
                 {props.description}
-            </h6>
-            <a className='card-link' href={props.url}>Deployed Application</a>
-            <a className='card-link' href={props.github}>GitHub Repo</a>
+            </h5>
+            <a className='card-link' href={props.url}>Deployed Application   </a>
+        
+            <a className='card-link' href={props.github}> GitHub Repo</a>
         </div>
     </div>
   );
