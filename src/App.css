@@ -25,7 +25,7 @@
 }
 
 .App-link {
-  color: #216072;
+  color: #161d1f;
 }
 
 @keyframes App-logo-spin {
@@ -89,6 +89,7 @@ section p {
   color:rgb(34, 157, 214);
   font-weight: bold;
   font-size:large;
+
 }
 
 footer {
