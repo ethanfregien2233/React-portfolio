@@ -4,18 +4,11 @@ import image1 from '../../assets/images/weatherdashboard.jpg';
 import image2 from '../../assets/images/gamespotblog.jpg';
 import image3 from '../../assets/images/reelroulette.jpg';
 import image4 from '../../assets/images/codingquiz.jpg';
-import image5 from '../../assets/images/budgettracker.jpg';
+import image5 from '../../assets/images/note.jpg';
 import image6 from '../../assets/images/img6.jpg';
 
 
-const portfolio = [
-    {
-        name: "Weather Dashboard",
-        description: "A weather app that displays a 5 day forecast for selected cities.",
-        image: image1,
-        url: "https://ethanfregien2233.github.io/weather-dashboard2/",
-        github: "https://github.com/ethanfregien2233/weather-dashboard2"
-    },    
+const portfolio = [  
     {
         name: "gameSpot Blog",
         description: "A gaming blog made with express, MySql, sequelize, bcrypt, bulma, express-session, and handlebars.",
@@ -29,21 +22,14 @@ const portfolio = [
         description: "Random movie and trailer generator using The Movie Database api and Youtube api.",
         image: image3,
         url: "https://ethanfregien2233.github.io/reel-roulette/",
-        github: "https://github.com/ethanfregien2233/project-1"
+        github: "https://github.com/ethanfregien2233/reel-roulette"
     },     
     {
-        name: "Coding Quiz",
-        description: "Timed quiz for users to review JS fundamentals",
-        image: image4,
-        url: "https://ethanfregien2233.github.io/code-quiz/",
-        github: "https://github.com/ethanfregien2233/code-quiz"
-    },  
-    {
-        name: "Budget Tracker",
-        description: "A Progressive Web Application(PWA) that allows users to track their expenses online and offline.",
+        name: "Note Taker",
+        description: "A note taking application allows users to save notes with a title and plain text.",
         image: image5,
-        url: "https://stark-everglades-55642.herokuapp.com/",
-        github: "hhttps://github.com/ethanfregien2233/Budget-tracker"
+        url: "https://dry-lake-21011.herokuapp.com/",
+        github: "https://github.com/ethanfregien2233/note-taker2"
     },    
     {
         name: "The Raffler",

@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 function Nav() {
     return (
-        <nav>
+        <nav className= 'justify-content-center'>
             <ul className='row justify-content-center'>
                 <li className='nav-link col-md-2 col-sm-6 mb-2'>
                     <NavLink
